@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item
+      android:id="@+id/navigation_game"
+      android:icon="@drawable/home_icon"
+      android:title="@string/home_screen"/>
+
+  <item
+      android:id="@+id/navigation_color"
+      android:icon="@drawable/color_icon"
+      android:title="@string/color_screen"/>
+
+  <item
+      android:id="@+id/navigation_help"
+      android:icon="@drawable/help_icon"
+      android:title="@string/help_screen"/>
+  
+</menu>

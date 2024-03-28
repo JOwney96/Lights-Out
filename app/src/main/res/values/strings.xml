@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Lights Out Fragments</string>
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string name="choose_a_color">Choose A Color</string>
+  <string name="light_bulb_description">A light bulb that is on</string>
+  <string name="turn_off_all_lights_to_win">Turn off all lights to win</string>
+  <string name="lights_out">Lights Out</string>
+  <string name="new_game">New Game</string>
+  <string name="home_screen">Home Screen</string>
+  <string name="color_screen">Color Screen</string>
+  <string name="help_screen">Help Screen</string>
+</resources>
